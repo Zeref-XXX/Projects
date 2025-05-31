@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(166, 226, 187);
+
+    height: 90vh;
+}
+h1{
+    background-color: beige;
+    text-align: center;
+}
+
+#outer{
+    display: flex;
+    width: 50vw;
+    background-color: bisque;
+
+}
+
+#container{
+    margin: auto;
+    align-items: center;
+    height: 70vh;
+    padding: 20px;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+}
+
